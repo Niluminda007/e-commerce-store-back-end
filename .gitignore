@@ -365,3 +365,5 @@ FodyWeavers.xsd
 # Firebase
 firebase-auth.json  
 
+# appsettings
+appsettings.json
